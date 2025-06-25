@@ -1,0 +1,7 @@
+# Dependancies needed
+django # backend setup
+djangorestframework # APIs
+django-cors-headers # API Documentation
+drf-yasg # Cross-Origin Resource Sharing Setup
+celery # 
+rabbitmq #
